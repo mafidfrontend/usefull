@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { Image } from "antd";
 import React from "react";
 
 function About() {
